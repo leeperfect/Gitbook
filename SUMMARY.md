@@ -11,3 +11,7 @@
 
 * [三十而立](sui-bi/san-shi-er-li.md)
 
+## 工作方法论
+
+* [处理复杂问题的方法](gong-zuo-fang-fa-lun/chu-li-fu-za-wen-ti-de-fang-fa.md)
+
